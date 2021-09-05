@@ -1,0 +1,5 @@
+
+
+
+			ptr =ptr->link;
+			ptr =ptr->link;
